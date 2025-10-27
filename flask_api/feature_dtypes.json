@@ -1,0 +1,6 @@
+{
+  "powerplay_runs": "int64",
+  "death_overs_runs": "float64",
+  "toss_win_helped": "int64",
+  "head_to_head_win_pct": "float64"
+}
