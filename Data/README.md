@@ -3,7 +3,7 @@
 This folder contains the structured datasets used in the project **“Cricket Match Outcome Prediction using Machine Learning.”**  
 All data has been preprocessed and prepared for model development, feature engineering, and evaluation.
 
-## 📂 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -13,7 +13,7 @@ All data has been preprocessed and prepared for model development, feature engin
 | **train.csv** | Training split of the processed dataset used for machine learning model training. |
 | **test.csv** | Testing split used for model evaluation and validation. |
 
-## 🧩 Data Description
+## Data Description
 
 The original cricket match data was available in **YAML format** and was parsed into CSV files for efficient handling and integration with the machine learning pipeline.  
 The datasets include publicly available historical match statistics and contain **no personal or sensitive information**.
