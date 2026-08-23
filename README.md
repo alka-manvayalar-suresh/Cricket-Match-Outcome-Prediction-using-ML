@@ -1,4 +1,4 @@
-# Cricket Match Outcome Prediction using Machine Learning
+# Cricket Match Outcome Prediction using Machine Learning and Power BI
 
 This project presents an end-to-end pipeline that predicts the outcomes of professional cricket matches using machine learning.  
 The goal was to design a **reproducible, interpretable, and data-driven system** that learns from historical records and forecasts match winners based on performance trends, toss outcomes, and head-to-head statistics.
